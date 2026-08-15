@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://advertise-swimming-place-cool.trycloudflare.com/vnc.html
+URL       : https://lottery-pray-magnet-integrating.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 15:15:07
+Created   : 2026-08-15 20:15:27
 =======================================================
