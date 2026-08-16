@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://office-jews-specify-principal.trycloudflare.com/vnc.html
+URL       : https://any-gone-sort-normally.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 10:17:01
+Created   : 2026-08-16 15:15:57
 =======================================================
