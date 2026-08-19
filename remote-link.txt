@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lenses-submission-knights-marker.trycloudflare.com/vnc.html
+URL       : https://art-objects-mozilla-technician.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:17:18
+Created   : 2026-08-19 00:46:49
 =======================================================
