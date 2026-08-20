@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://touch-painted-seat-basin.trycloudflare.com/vnc.html
+URL       : https://goat-warning-surgeons-groups.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 10:23:47
+Created   : 2026-08-20 15:28:31
 =======================================================
